@@ -1,2 +1,2 @@
 # Jiayang-Hong
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub Logo](Futuristic Male Avatar.png)
