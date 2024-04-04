@@ -1,2 +1,2 @@
 # Jiayang-Hong
-![Profile Image](Futuristic Male Avatar.png)
+![Futuristic Male Avatar](Futuristic Male Avatar.png)
