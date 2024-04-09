@@ -5,7 +5,7 @@
 My name is Jiayang Hong, and I am a junior at Duke Kunshan University, majoring in data science with a deep interest in machine learning and cryptocurrency. Alongside my academic pursuits, I am passionate about sports, dedicating much of my spare time to weight training. Also I used to be a player at Duke rugby club,which I found both challenging and rewarding.
 
 ## About the Repo
-This repository contains my solutions for the Problem Set 1 of the course COMSCI/ECON 206 Computational Microeconomics, instructed by Prof. Luyao Zhang at DKU. 
+This repository contains my solutions for the Problem Sets of the course COMSCI/ECON 206 Computational Microeconomics, instructed by Prof. Luyao Zhang at DKU. 
 
 ## Table of Contents
 
