@@ -9,5 +9,5 @@ This repository contains my solutions for the Problem Sets of the course COMSCI/
 
 ## Table of Contents
 
-- [CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/README.md)
+- [CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/CSEcon/README.md)
 - [Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/README.md)
