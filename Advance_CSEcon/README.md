@@ -109,7 +109,8 @@ After chating with gpt, I find that Integrating bounded rationality into federat
 - Smith, Vernon L. (1982). *Microeconomic Systems as an Experimental Science*. The American Economic Review.
 - Terry, J. K., et al. (2021). *PettingZoo: Gym for Multi-Agent Reinforcement Learning*. ArXiv.org.
 - *The Impact of Quantum Computing on the Future of Blockchain Security*. (n.d.). LinkedIn.
-  <img width="1616" alt="Advance_CSECon" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/4a3f053c-cafb-4fc4-8deb-6e7ec6af8b41">
-  <img width="208" alt="Grammaly for CSEcon" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/07a4fcef-007d-4a7a-8f08-2314e22ca971">
+  
+<img width="1616" alt="Advance_CSECon" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/4a3f053c-cafb-4fc4-8deb-6e7ec6af8b41">
+<img width="208" alt="Grammaly for CSEcon" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/07a4fcef-007d-4a7a-8f08-2314e22ca971">
 
 
