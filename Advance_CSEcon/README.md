@@ -46,7 +46,7 @@ Reflecting on my personal experience with deploying the trust game using oTree, 
 During my hands-on experience with oTree, I encountered issues related to user interface complexity and data analytics limitations. The user interface was not always intuitive, causing difficulties for participants in understanding the game mechanics, which could potentially influence their decisions and affect the experiment's outcome. This issue directly contrasts with the experimental economics goal of creating clear and controlled conditions for testing economic behaviors and theories. A more intuitive and user-friendly interface would ensure that participants' actions are genuine reflections of their decision-making processes rather than reactions to navigational confusion.Additionally, the process of analyzing data gathered from the trust game in oTree was cumbersome and disjointed, requiring external tools for in-depth analysis. This limitation hinders the immediate and detailed examination of experimental data, essential for validating economic theories and understanding complex behavioral patterns, as emphasized in the literature (Friedman and Sunder, 1994).Moreover, the real-time interaction capabilities in oTree were inadequate for capturing the dynamic nature of economic decision-making, particularly in games that simulate immediate trust-building scenarios. This shortfall impacts the ability to study strategic interactions authentically, as dynamic and timely decision-making processes are crucial for experiments aiming to mimic real-world economic interactions (Camerer, 2003).
 
 
-<p align="center"><img width="1000" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/bafa80f9-1ddd-4207-bc91-3fff7cbcb287"> </p>
+<p align="center"><img width="1000" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/Screenshot%202024-03-29%20at%207.38.56%20PM.png"> </p>
 
 
 <p align="center">Fig.1. personal experience with Otree! </p>
@@ -64,11 +64,11 @@ In summary, my experience with oTree and the insights gained from related litera
 Analyzing the limitations of current multi-agent reinforcement learning (MARL) frameworks through the lens of the classic game Tic-Tac-Toe reveals key areas for enhancement, particularly in environment constraints and agent algorithm customizations. In Tic-Tac-Toe, two players take turns marking spaces in a 3×3 grid, aiming to place three of their marks in a horizontal, vertical, or diagonal row. This game serves as an ideal model to illustrate MARL's limitations due to its simple yet strategic nature. The current MARL frameworks, such as the one adapted for the PettingZoo API, often struggle with predefined environment constraints that limit the flexibility needed for dynamic strategy formulation. Additionally, agent algorithm customizations in these frameworks are typically rigid, not allowing for nuanced behavior modeling that evolves with the game's context (Terry et al. 2021).
 Developing a MARL agent for Tic-Tac-Toe requires defining states, actions, and rewards that mirror the fundamental behavioral assumptions of game theory. The states in this game are represented by the configurations of the grid, accounting for each player's moves. The actions are the choices of grid positions to mark, and the rewards are based on winning, losing, or drawing the game, which encourage strategic play. In my personal endeavor to deploy Tic-Tac-Toe using a MARL framework, I encountered the challenge of creating an agent that could not only learn the basic rules but also develop strategies that adapt to the opponent's actions. The MARL environment often imposed rigid constraints that hampered the agent's ability to learn from the nuanced dynamics of the game, such as anticipating the opponent's moves and strategizing accordingly.
 
-<p align="center"><img width="300" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/eb974767-a8f4-45de-aced-15f115e6665d"></p>
+<p align="center"><img width="500" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/Screenshot%202024-03-30%20at%205.50.08%20PM.png"></p>
 
 <p align="center">Fig.3. code for strategic play</p>
 
-<p align="center"><img width="200" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/508f417b-470f-4df9-a98c-9a1fe2659fe4"></p>
+<p align="center"><img width="200" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/Screenshot%202024-03-30%20at%205.50.22%20PM.png"></p>
 
 <p align="center">Fig.4. challenge of adapting to the opponent’s actions.</p>
 
@@ -95,7 +95,7 @@ The paper addresses the design of an incentive mechanism in federated learning (
 ### Beyond Computer Science and Economics
 Incorporating bounded rationality into the model could provide a more realistic simulation of human-AI interactions in federated learning systems. Examining the impact of psychological heuristics on client participation could lead to more robust incentive mechanisms
 
-<p align="center"><img width="300" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/b2a5267b-cb4c-4214-b85a-215baf002d92"></p>
+<p align="center"><img width="400" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/b2a5267b-cb4c-4214-b85a-215baf002d92"></p>
 
 <p align="center">Fig.5. Gpt’s answer for question 5</p>
 
