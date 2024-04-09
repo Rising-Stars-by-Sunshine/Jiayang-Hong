@@ -38,3 +38,6 @@ The interaction, between bounded rationality and generative AI is reshaping how 
 - Nilsson, Nils J. 1996. “Artificial Intelligence: A Modern Approach.” Artificial Intelligence 82 (1-2): 369–80. [link](https://doi.org/10.1016/0004-3702(96)00007-0)
 - “Will Blockchain Technology Mark a Turning Point in Fraud Prevention?” 2023. Financial and Business News | Finance Magnates. June 16, 2023. [link](https://www.financemagnates.com/cryptocurrency/education-centre/will-blockchain-technology-mark-a-turning-point-in-fraud-prevention/)
 - Guerini, Mattia, Lionel Nesta, Xavier Ragot, and Stefano Schiavo. 2024. “Zombification of the Economy? Assessing the Effectiveness of French Government Support during COVID-19 Lockdown.” Journal of Economic Behavior and Organization 218 (February): 263–80. [link](https://doi.org/10.1016/j.jebo.2023.12.013)
+
+<img width="1416" alt="CSEcon" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/4d2bb2b6-b082-41b0-986e-9fb889fc15a9">
+<img width="238" alt="Grammaly for Advance_CSEcon" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/c8ec3a78-c285-41dc-ad8c-37b98f6ec169">
