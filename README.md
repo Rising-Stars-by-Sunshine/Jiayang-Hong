@@ -1,4 +1,4 @@
-# Jiayang-Hong
+# Jiayang Hong
 <img width="250" alt="Screenshot 2024-04-07 at 3 04 35 PM" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/185d8673-d50f-4e3a-bf74-72d40d07e92c">
 
 ## About Me
@@ -9,5 +9,5 @@ This repository contains my solutions for the Problem Sets of the course COMSCI/
 
 ## Table of Contents
 
-- [CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/CSEcon/README.md)
-- [Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/README.md)
+- [**CSEcon**](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/CSEcon/README.md) 
+- [**Advance_CSEcon**](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/README.md) 
