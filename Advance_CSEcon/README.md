@@ -49,7 +49,7 @@ During my hands-on experience with oTree, I encountered issues related to user i
 <p align="center"><img width="1000" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/Screenshot%202024-03-29%20at%207.38.56%20PM.png"> </p>
 
 
-<p align="center">Fig.1. personal experience with Otree! </p>
+<p align="center">Fig.1. personal experience with Otree </p>
 
 To overcome these limitations and better align with the goals of experimental economics, I propose the development of a new software solution that addresses these critical areas. Enhancing the UI/UX design would make the experimental platform more accessible and engaging, ensuring that participant behavior accurately reflects theoretical predictions. Integrating sophisticated data analytics within the platform would facilitate real-time, comprehensive analysis of behavioral patterns, supporting the immediate application and testing of economic theories. Improving real-time interaction capabilities would also enable a more authentic simulation of economic scenarios, essential for studying strategic decision-making processes.
 
