@@ -100,6 +100,8 @@ Incorporating bounded rationality into the model could provide a more realistic 
 <p align="center">Fig.5. Gpt’s answer for question 5</p>
 
 After chating with gpt, I find that Integrating bounded rationality into federated learning (FL) research reveals the complexity of decision-making processes in human and AI agents, challenging the notion of purely rational behavior in economic models. Recognizing the influence of cognitive biases and heuristics necessitates more adaptable and nuanced incentive mechanisms that cater to the varied motivations of participants. This approach could lead to more effective and sustainable federated learning systems, where incentives are aligned with the diverse and dynamic behaviors of all agents involved. Embracing this complexity is crucial for advancing FL research and practice, promoting a more holistic and effective design of learning ecosystems.
+![Screenshot 2024-04-11 at 8.34.22 PM](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/bd402b13-da4a-4346-9fc1-462047b609ba)
+<p align="center">Fig.6.Intergrating bounded rationality into FL </p>
 
 
 ## Bibliography
