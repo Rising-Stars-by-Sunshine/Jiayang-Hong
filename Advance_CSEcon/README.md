@@ -75,6 +75,10 @@ Developing a MARL agent for Tic-Tac-Toe requires defining states, actions, and r
 To overcome these limitations, a more flexible MARL framework is necessary. Such a framework would allow for a dynamic definition of states that evolve with the game's context, enabling agents to learn and adapt their strategies effectively. Enhanced algorithm customizations are also essential, allowing agents to model complex behaviors like deception or strategic foresight, which are crucial in games like Tic-Tac-Toe.An advanced MARL system for Tic-Tac-Toe would incorporate these features, facilitating the development of agents capable of complex strategic thinking and adaptive learning. This would not only improve performance in specific games like Tic-Tac-Toe but also contribute to the broader field of MARL by providing a template for creating more sophisticated and adaptable learning agents.
 In conclusion, addressing the limitations of current MARL frameworks, as demonstrated through the deployment of Tic-Tac-Toe, requires innovations in environment flexibility and agent customization. By enhancing these aspects, MARL can be advanced to produce agents that are capable of complex and strategic interaction, reflecting the intricate nature of behavioral game theory.
 
+![Screenshot 2024-04-11 at 8.37.44 PM](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/7238d1fa-4a77-4f59-8744-9d89b4937f30)
+<p align="center">Fig.5. Address the limitation in MARL framework.</p>
+
+
 ## Question 3: Federated Learning Incentive Mechanism
 ### Summary of the Paper
 - **Core Research Questions**: Core Research Questions:
@@ -97,11 +101,11 @@ Incorporating bounded rationality into the model could provide a more realistic 
 
 <p align="center"><img width="400" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/b2a5267b-cb4c-4214-b85a-215baf002d92"></p>
 
-<p align="center">Fig.5. Gpt’s answer for question 5</p>
+<p align="center">Fig.6. Gpt’s answer for question 5</p>
 
 After chating with gpt, I find that Integrating bounded rationality into federated learning (FL) research reveals the complexity of decision-making processes in human and AI agents, challenging the notion of purely rational behavior in economic models. Recognizing the influence of cognitive biases and heuristics necessitates more adaptable and nuanced incentive mechanisms that cater to the varied motivations of participants. This approach could lead to more effective and sustainable federated learning systems, where incentives are aligned with the diverse and dynamic behaviors of all agents involved. Embracing this complexity is crucial for advancing FL research and practice, promoting a more holistic and effective design of learning ecosystems.
 ![Screenshot 2024-04-11 at 8.34.22 PM](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/assets/145865131/bd402b13-da4a-4346-9fc1-462047b609ba)
-<p align="center">Fig.6.Intergrating bounded rationality into FL </p>
+<p align="center">Fig.7.Intergrating bounded rationality into FL </p>
 
 
 ## Bibliography
