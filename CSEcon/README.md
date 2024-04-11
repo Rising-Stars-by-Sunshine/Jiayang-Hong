@@ -25,6 +25,8 @@ Furthermore, the partnership between computer science and economics has transfor
 In policy and governance, computational models and economic simulations serve as tools for policymakers to plan scenarios and make decisions. For instance, during COVID-19, computer-based models played a crucial role in evaluating how different lockdown measures could impact the economy. This helped governments strike a balance, between addressing health concerns and maintaining stability as mentioned by Guerini et al. In 2024.
 ![Screenshot 2024-04-07 at 12.08.27 PM.png](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/CSEcon/Screenshot%202024-04-07%20at%2012.08.27%20PM.png)
 <p align="center"> Fig.1. Fusion of CS and Econ</p>
+
+
 ## Question 3
 The interaction, between bounded rationality and generative AI is reshaping how strategic decisions are made. Human decision making, limited by bounded rationality differs from AIs ability to quickly process and analyze amounts of data. Generative AI, specifically enhances these capabilities by devising intricate strategies. This fusion of intuition and AIs analytical prowess is nurturing hybrid decision making models that improve the effectiveness of strategic decisions across different sectors such, as finance and policymaking. The convergence of these two decision making entities highlights the importance of understanding their potential intricately and the ethical considerations surrounding their collaboration as discussed in Nilssons (1996) thorough analysis.
 				
