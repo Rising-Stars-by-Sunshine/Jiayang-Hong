@@ -11,3 +11,17 @@ This repository contains my solutions for the Problem Sets of the course COMSCI/
 
 - [**CSEcon**](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/CSEcon/README.md) 
 - [**Advance_CSEcon**](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/README.md) 
+
+# Professional Profile Reflection
+
+## Part I: Professional Profile
+
+### Intellectual Growth
+Throughout this course, I have experienced significant intellectual growth by understanding the merits of applying machine learning to solve social and economic issues. The interdisciplinary approach, combining machine learning with insights from economics and social sciences, has opened new avenues for addressing complex challenges. The magic of interdisciplinary research lies in its ability to pull diverse expertise together to innovate solutions that no single field could achieve on its own.
+
+### Professional Growth
+My professional growth during this course has been characterized by acquiring a versatile set of skills that blend technical machine learning techniques with an understanding of socio-economic frameworks. This combination is essential for creating impactful technology solutions that are sensitive to human contexts. These skills are integral to developing a professional profile that is not only technically proficient but also socially conscious.
+
+### Living a Purposeful Life
+As I envision my future contributions, I am inspired to become a pioneer in ethical artificial intelligence. Should I one day be honored with a Nobel Prize or Turing Award, I would like it to be for "Establishing ethical standards in artificial intelligence to ensure its benefits are shared equitably across global societies." My aim is to advance human civilization by balancing technological advancements with multi-objective perspectives that prioritize communal well-being and justice.
+
