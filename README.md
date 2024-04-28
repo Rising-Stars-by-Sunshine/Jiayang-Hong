@@ -14,8 +14,6 @@ This repository contains my solutions for the Problem Sets of the course COMSCI/
 
 # Professional Profile Reflection
 
-## Professional Profile
-
 ### Intellectual Growth
 Throughout this course, I have experienced significant intellectual growth by understanding the merits of applying machine learning to solve social and economic issues. The interdisciplinary approach, combining machine learning with insights from economics and social sciences, has opened new avenues for addressing complex challenges. The magic of interdisciplinary research lies in its ability to pull diverse expertise together to innovate solutions that no single field could achieve on its own.
 
