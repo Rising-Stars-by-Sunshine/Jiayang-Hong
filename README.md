@@ -12,14 +12,13 @@ This repository contains my solutions for the Problem Sets of the course COMSCI/
 - [**CSEcon**](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/CSEcon/README.md) 
 - [**Advance_CSEcon**](https://github.com/Rising-Stars-by-Sunshine/Jiayang-Hong/blob/main/Advance_CSEcon/README.md) 
 
-# Professional Profile Reflection
+# Professional Profile
 
-### Intellectual Growth
-Throughout this course, I have experienced significant intellectual growth by understanding the merits of applying machine learning to solve social and economic issues. The interdisciplinary approach, combining machine learning with insights from economics and social sciences, has opened new avenues for addressing complex challenges. The magic of interdisciplinary research lies in its ability to pull diverse expertise together to innovate solutions that no single field could achieve on its own.
+## Intellectual Growth
+Throughout this course, my intellectual capabilities expanded significantly, especially in understanding how machine learning, particularly reinforcement learning (RL), can be applied to solve social and economic issues through game theory. Reinforcement learning involves agents learning optimal behaviors within a defined environment by actions and consequences, akin to strategic decision-making in game theory. By simulating game scenarios, RL algorithms optimize decision-making processes, reflecting real-world strategic interactions. This exploration not only deepened my comprehension of dynamic strategic models but also highlighted the transformative potential of interdisciplinary research in merging AI with economic theories.
 
-### Professional Growth
-My professional growth during this course has been characterized by acquiring a versatile set of skills that blend technical machine learning techniques with an understanding of socio-economic frameworks. This combination is essential for creating impactful technology solutions that are sensitive to human contexts. These skills are integral to developing a professional profile that is not only technically proficient but also socially conscious.
+## Professional Growth
+My professional growth during the course was marked by acquiring a robust combination of technical skills and strategic insights. Engaging with complex algorithms and modeling techniques has equipped me with the tools necessary to design and implement AI-driven strategies in varied professional settings. This skill set is crucial for developing systems that require adaptive learning and decision-making capabilities, preparing me for challenges in AI applications in economics and beyond.
 
-### Living a Purposeful Life
-As I envision my future contributions, I am inspired to become a pioneer in ethical artificial intelligence. Should I one day be honored with a Nobel Prize or Turing Award, I would like it to be for "Establishing ethical standards in artificial intelligence to ensure its benefits are shared equitably across global societies." My aim is to advance human civilization by balancing technological advancements with multi-objective perspectives that prioritize communal well-being and justice.
-
+## Living a Purposeful Life
+Looking ahead, I aspire to be a pioneer in integrating artificial intelligence with human-centric economic strategies. Imagine being acknowledged with a Nobel Prize or Turing Award; I envision my contribution statement to reflect my commitment to advancing AI in economic models to better serve societal needs. My goal is to create systems that not only optimize outcomes but also enhance human welfare globally, representing a significant advancement in how we understand and implement AI in complex decision-making landscapes.
