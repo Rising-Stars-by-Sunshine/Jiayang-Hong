@@ -1,5 +1,7 @@
-[Overleaf URL](https://www.overleaf.com/project/6627c756d61b7264393044c1)
 # Integrating GAI and Human strategy: A New Paradigm in Game Theory
+
+![poster](Poster.png)
+[Overleaf URL](https://www.overleaf.com/project/6627c756d61b7264393044c1)
 
 ## Background/Motivation
 The digital economy and complex systems involving both human and AI agents reveal substantial gaps in traditional game theory. Traditional models do not dynamically represent real-time strategic interactions adequately. This project aims to develop a more robust theoretical model that incorporates unpredictable interactions between AI and humans, particularly useful in sectors like cybersecurity and automated trading systems.
